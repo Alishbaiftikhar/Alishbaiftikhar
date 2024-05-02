@@ -2,19 +2,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2EA0D3&width=435&lines=MERN+Stack+Developer%2C+UI%2FUX+Designer%2C+Social+Worker%2C+Freelancer+and+always+eager+to+learn+new+things;Freelancer+and+always+eager+to+learn;new+things!" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishbaiftikhar&label=Profile%20views&color=0e75b6&style=flat" alt="alishbaiftikhar" /> </p>
 
-- 🎓I'm CS Final Year Student at COMSATS Institute of Information Technology Islamabad.
+- 🎓I'm BSCS Graduate From COMSATS Institute of Information Technology Islamabad.
 
-- 🔭 I’m currently working on **my Final Year Project "V-DESIGNERS" facilitating both Designers and Clothing Brands using           GANS/Stable diffusion, Augmented Reality and 3D modelling**
+- 🔭 I’m currently working at Vision Tech 360 as Software Developer.
 
-- 🌱 I’m currently learning **Machine Learning Algorithms, AWS**
+- 🌱 I’m currently on Technologies **Nodejs, Angular, javascript, python(fastapi+scrapping), ElasticSearch, MongoDB**
 
-- 🤝 I’m looking for help with **Dataset creation and machine learning algo of GANS and Stable diffusion**
+- 🤝 I’m help people with **website developement, writing Resume, figma Work(mobile Apps)**
 
 - 📝 I used to write articles on Linux [https://linuxhint.com/author/alishbaiftikhar/](https://linuxhint.com/author/alishbaiftikhar/)
 
 - 💬 Ask me about how to **code(my projects),create innovative designs on figma and technical writing**
 
-- 📫 How to reach me **@alishbaiftikhar2001@gmail.com or on [LinkedIn profile](https://www.linkedin.com/in/alishba-iftikhar-technicawriter-ui-uxdesigner-freelancer/)**
+- 📫 How to reach me **@alishbaiftikhar2001@gmail.com or on [LinkedIn profile](https://www.linkedin.com/in/alishba-iftikhar-/)**
 
 - ⚡ Advice **"End of something is always start of another so don't stop learning!"**
 
